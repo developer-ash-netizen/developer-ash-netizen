@@ -1,28 +1,21 @@
-You're right. The previous version was still a **template with a few personalized sections**. You asked for the opposite: **take everything relevant I actually know about you and turn the README into a full personal developer dashboard.**
-
-I also corrected the GitHub username from my previous answer: the profile information I have for you points to **`sreehaasan`**, not `developer-ash-netizen`.
-
-Below is a much more complete version. I’ve included your **Full-Stack + UI/UX identity, React/TypeScript focus, AI/ML direction, projects, product/startup mindset, backend/payment work, mobile work, research ambitions, learning roadmap, engineering philosophy, tools, stats, activity, achievements, and portfolio links**.
-
-## `README.md`
-
-````md
 <div align="center">
 
 <!-- ========================================================= -->
+
 <!--                         HERO                              -->
+
 <!-- ========================================================= -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=SREE%20HAASAN&fontSize=62&fontAlignY=35&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20UI%2FUX%20%7C%20BUILDER&descAlignY=58&descSize=19"
-  width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&text=SREE%20HAASAN&fontSize=62&fontAlignY=35&desc=AI%2FML%20%7C%20FULL-STACK%20%7C%20UI%2FUX%20%7C%20BUILDER&descAlignY=58&descSize=19"
+width="100%"
 />
 
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;React+%2B+TypeScript+Developer+%E2%9A%A1;Building+Real-World+Products+%F0%9F%9A%80;Exploring+AI+%2B+Software+Engineering+%F0%9F%A7%A0;Learning+by+Building+%F0%9F%94%A5;Turning+Ideas+Into+Systems+%F0%9F%9B%A0%EF%B8%8F"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=900&lines=AI%2FML+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;React+%2B+TypeScript+Developer+%E2%9A%A1;Building+Real-World+Products+%F0%9F%9A%80;Exploring+AI+%2B+Software+Engineering+%F0%9F%A7%A0;Learning+by+Building+%F0%9F%94%A5;Turning+Ideas+Into+Systems+%F0%9F%9B%A0%EF%B8%8F"
+alt="Typing SVG"
 />
 
 <br/><br/>
@@ -51,22 +44,19 @@ src="https://komarev.com/ghpvc/?username=sreehaasan&style=for-the-badge&label=PR
 
 </div>
 
----
-
-# 👋 Hey, I'm Sree Haasan
+👋 Hey, I'm Sree Haasan
 
 <div align="center">
 
-### `AI/ML Student` • `Full-Stack Developer` • `UI/UX Designer` • `Builder`
+AI/ML Student • Full-Stack Developer • UI/UX Designer • Builder
 
 </div>
 
-I'm **Sree Haasan**, an AI/ML student and full-stack developer
+I'm Sree Haasan, an AI/ML student and full-stack developer
 with a strong interest in building real-world software products.
 
 My development journey spans across:
 
-```text
                     SREE HAASAN
                          │
         ┌────────────────┼────────────────┐
@@ -82,11 +72,9 @@ My development journey spans across:
                          │
                          ▼
                    REAL SYSTEMS
-````
 
 I enjoy working on the complete journey:
 
-```text
 Idea
  ↓
 Research
@@ -110,56 +98,61 @@ Testing
 Deployment
  ↓
 Real Users
-```
 
----
-
-# 🧭 Who I Am
+🧭 Who I Am
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### 👨‍💻 Developer
+👨‍💻 Developer
 
-* Full-Stack Developer
-* React Developer
-* TypeScript Developer
-* Backend Developer
-* UI/UX Designer
-* API Builder
-* Product Engineer
+Full-Stack Developer
+
+React Developer
+
+TypeScript Developer
+
+Backend Developer
+
+UI/UX Designer
+
+API Builder
+
+Product Engineer
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🤖 AI / ML
+🤖 AI / ML
 
-* AI/ML Student
-* Machine Learning Explorer
-* AI Application Builder
-* Generative AI Explorer
-* Future AI Researcher
-* Applied AI Enthusiast
+AI/ML Student
+
+Machine Learning Explorer
+
+AI Application Builder
+
+Generative AI Explorer
+
+Future AI Researcher
+
+Applied AI Enthusiast
 
 </td>
 
 </tr>
 </table>
 
----
+⚡ My Core Philosophy
 
-# ⚡ My Core Philosophy
+Don't just make it work.
 
-> ### Don't just make it work.
->
-> ### Understand why it works.
+Understand why it works.
 
 I prefer learning through actual projects.
 
-```text
 LEARN
   ↓
 BUILD
@@ -173,16 +166,12 @@ UNDERSTAND
 IMPROVE
   ↓
 SHIP
-```
 
 A project becomes interesting to me when it forces me to
 understand what is happening underneath the UI.
 
----
+🧠 My Technical Identity
 
-# 🧠 My Technical Identity
-
-```text
 ┌────────────────────────────────────────────────────┐
 │                                                    │
 │                    SREE HAASAN                     │
@@ -212,32 +201,39 @@ understand what is happening underneath the UI.
 │              REAL PRODUCTS                        │
 │                                                    │
 └────────────────────────────────────────────────────┘
-```
 
----
-
-# 🎨 UI / UX
+🎨 UI / UX
 
 I care about more than making an interface functional.
 
 I enjoy working with:
 
-* 🎨 UI design
-* 🧩 Component architecture
-* 📱 Responsive design
-* 🖥️ Desktop layouts
-* 📲 Mobile layouts
-* 🌗 Dark / light themes
-* ✨ Micro-interactions
-* 🎞️ Animations
-* 🧭 Navigation
-* 📐 Visual hierarchy
-* ♿ Usability
-* ⚡ Performance
+🎨 UI design
 
-### Frontend philosophy
+🧩 Component architecture
 
-```text
+📱 Responsive design
+
+🖥️ Desktop layouts
+
+📲 Mobile layouts
+
+🌗 Dark / light themes
+
+✨ Micro-interactions
+
+🎞️ Animations
+
+🧭 Navigation
+
+📐 Visual hierarchy
+
+♿ Usability
+
+⚡ Performance
+
+Frontend philosophy
+
 Beautiful
    +
 Responsive
@@ -249,15 +245,12 @@ Fast
 Maintainable
    =
 Good UI
-```
 
----
-
-# 💻 Frontend Development
+💻 Frontend Development
 
 My frontend work focuses heavily on modern React ecosystems.
 
-### Main technologies
+Main technologies
 
 <p align="center">
 
@@ -265,28 +258,37 @@ My frontend work focuses heavily on modern React ecosystems.
 
 </p>
 
-### Frontend interests
+Frontend interests
 
-* React
-* TypeScript
-* Next.js
-* React Router
-* Tailwind CSS
-* Responsive Web Design
-* Component Systems
-* Animations
-* Framer Motion
-* React Helmet Async
-* Lucide React
-* Modern UI patterns
+React
 
----
+TypeScript
 
-# ⚙️ Backend Engineering
+Next.js
+
+React Router
+
+Tailwind CSS
+
+Responsive Web Design
+
+Component Systems
+
+Animations
+
+Framer Motion
+
+React Helmet Async
+
+Lucide React
+
+Modern UI patterns
+
+⚙️ Backend Engineering
 
 I enjoy understanding what happens behind the interface.
 
-### Backend technologies
+Backend technologies
 
 <p align="center">
 
@@ -294,9 +296,8 @@ I enjoy understanding what happens behind the interface.
 
 </p>
 
-### Backend areas
+Backend areas
 
-```text
 REST APIs
 Authentication
 Authorization
@@ -312,11 +313,8 @@ Delivery
 Admin Systems
 Error Handling
 Security
-```
 
----
-
-# 🗄️ Database & Data Layer
+🗄️ Database & Data Layer
 
 <p align="center">
 
@@ -326,25 +324,30 @@ Security
 
 I'm interested in understanding:
 
-* Data modeling
-* Relationships
-* Indexing
-* Query performance
-* Transactions
-* Consistency
-* Caching
-* Data integrity
-* Backend persistence
+Data modeling
 
----
+Relationships
 
-# 🔐 Security & Application Engineering
+Indexing
+
+Query performance
+
+Transactions
+
+Consistency
+
+Caching
+
+Data integrity
+
+Backend persistence
+
+🔐 Security & Application Engineering
 
 Real applications need more than a working UI.
 
 I'm interested in:
 
-```text
 Authentication
        ↓
 Authorization
@@ -360,40 +363,45 @@ Database Integrity
 Payment Security
        ↓
 Production Security
-```
 
----
-
-# 💳 Payments & Commerce Systems
+💳 Payments & Commerce Systems
 
 One of my projects has pushed me into understanding
 systems beyond normal CRUD applications.
 
 Areas explored include:
 
-* Payment orders
-* Payment gateways
-* Payment verification
-* Callback/webhook concepts
-* COD settlement
-* Wallet systems
-* Ledger systems
-* Pricing
-* Orders
-* Delivery
-* Admin operations
+Payment orders
+
+Payment gateways
+
+Payment verification
+
+Callback/webhook concepts
+
+COD settlement
+
+Wallet systems
+
+Ledger systems
+
+Pricing
+
+Orders
+
+Delivery
+
+Admin operations
 
 This has helped me understand that production software is
-often about **state, consistency, failure handling and business logic**,
+often about state, consistency, failure handling and business logic,
 not just screens and endpoints.
 
----
-
-# 📱 Mobile Development
+📱 Mobile Development
 
 I'm also exploring mobile application development.
 
-### Current direction
+Current direction
 
 <p align="center">
 
@@ -404,7 +412,6 @@ I'm also exploring mobile application development.
 I'm interested in building applications where
 web, backend and mobile systems work together.
 
-```text
 Web
  │
  ├──────────────┐
@@ -416,33 +423,36 @@ Backend       Mobile
         │
         ▼
     Database
-```
 
----
-
-# 🤖 AI / Machine Learning
+🤖 AI / Machine Learning
 
 AI and Machine Learning are a major part of where
 I want to grow technically.
 
-### Areas I'm exploring
+Areas I'm exploring
 
-* 🧠 Machine Learning
-* 🧬 Deep Learning
-* ✨ Generative AI
-* 👁️ Computer Vision
-* 💬 Natural Language Processing
-* 🧩 AI Agents
-* 🔍 Retrieval Systems
-* ⚙️ AI Systems
-* 🚀 Applied AI
-* 🧠 AI + Full-Stack Applications
+🧠 Machine Learning
 
----
+🧬 Deep Learning
 
-# 🧠 AI Learning Path
+✨ Generative AI
 
-```text
+👁️ Computer Vision
+
+💬 Natural Language Processing
+
+🧩 AI Agents
+
+🔍 Retrieval Systems
+
+⚙️ AI Systems
+
+🚀 Applied AI
+
+🧠 AI + Full-Stack Applications
+
+🧠 AI Learning Path
+
                 MATHEMATICS
                      │
                      ▼
@@ -465,12 +475,10 @@ I want to grow technically.
                      │
                      ▼
               PRODUCTION AI
-```
 
 My long-term goal is to understand AI not only
 from the model side, but also from the engineering side.
 
-```text
 Model
  +
 Data
@@ -486,33 +494,60 @@ Infrastructure
 UX
  =
 AI Product
-```
 
----
-
-# 🔬 Research
+🔬 Research
 
 I'm increasingly interested in moving from
-simply consuming technology toward **understanding and researching it**.
+simply consuming technology toward understanding and researching it.
 
-### Research areas I'm curious about
+Research areas I'm curious about
 
-| Area                    | Interest |
-| ----------------------- | -------- |
-| Artificial Intelligence | ⭐⭐⭐⭐⭐    |
-| Machine Learning        | ⭐⭐⭐⭐⭐    |
-| Generative AI           | ⭐⭐⭐⭐⭐    |
-| AI Agents               | ⭐⭐⭐⭐⭐    |
-| AI Systems              | ⭐⭐⭐⭐⭐    |
-| Applied AI              | ⭐⭐⭐⭐⭐    |
-| Deep Learning           | ⭐⭐⭐⭐     |
-| Computer Vision         | ⭐⭐⭐⭐     |
-| NLP                     | ⭐⭐⭐⭐     |
-| Human-AI Interaction    | ⭐⭐⭐⭐     |
+Area
 
-### Research mindset
+Interest
 
-```text
+Artificial Intelligence
+
+⭐⭐⭐⭐⭐
+
+Machine Learning
+
+⭐⭐⭐⭐⭐
+
+Generative AI
+
+⭐⭐⭐⭐⭐
+
+AI Agents
+
+⭐⭐⭐⭐⭐
+
+AI Systems
+
+⭐⭐⭐⭐⭐
+
+Applied AI
+
+⭐⭐⭐⭐⭐
+
+Deep Learning
+
+⭐⭐⭐⭐
+
+Computer Vision
+
+⭐⭐⭐⭐
+
+NLP
+
+⭐⭐⭐⭐
+
+Human-AI Interaction
+
+⭐⭐⭐⭐
+
+Research mindset
+
 Interesting Problem
        ↓
 Read Existing Work
@@ -530,20 +565,16 @@ Compare
 Document
        ↓
 Publish
-```
 
----
+📚 StudyShare
 
-# 📚 StudyShare
-
-## Educational Resource Platform
+Educational Resource Platform
 
 A platform focused on sharing and organizing
 educational resources.
 
-### Concept
+Concept
 
-```text
 Students
    │
    ▼
@@ -554,32 +585,36 @@ StudyShare
    ├── Study Material
    ├── Resources
    └── Sharing
-```
 
-### Engineering areas
+Engineering areas
 
-* User authentication
-* Resource management
-* File handling
-* Frontend
-* Backend
-* APIs
-* Database
-* Search
-* User experience
+User authentication
 
----
+Resource management
 
-# ⚡ Dhruthaa
+File handling
 
-## Quick-Commerce Platform
+Frontend
+
+Backend
+
+APIs
+
+Database
+
+Search
+
+User experience
+
+⚡ Dhruthaa
+
+Quick-Commerce Platform
 
 A project exploring what it takes to build
 a complete quick-commerce ecosystem.
 
-### High-level architecture
+High-level architecture
 
-```text
                          DHRUTHAA
                              │
           ┌──────────────────┼──────────────────┐
@@ -600,40 +635,45 @@ a complete quick-commerce ecosystem.
                              │
                              ▼
                          ADMIN
-```
 
-### Systems involved
+Systems involved
 
-* 🛒 Commerce
-* 📦 Orders
-* 🚚 Delivery
-* 💰 Pricing
-* 💳 Payments
-* 👛 Wallet
-* 📒 Ledger
-* 🔐 Authentication
-* 🛡️ Session security
-* 🛠️ Admin dashboard
-* 🔌 Backend APIs
-* 📱 Mobile application
+🛒 Commerce
 
----
+📦 Orders
 
-# 🏗️ What Real-World Engineering Looks Like
+🚚 Delivery
+
+💰 Pricing
+
+💳 Payments
+
+👛 Wallet
+
+📒 Ledger
+
+🔐 Authentication
+
+🛡️ Session security
+
+🛠️ Admin dashboard
+
+🔌 Backend APIs
+
+📱 Mobile application
+
+🏗️ What Real-World Engineering Looks Like
 
 A production application isn't:
 
-```text
 Button
  ↓
 API
  ↓
 Database
-```
 
 It's closer to:
 
-```text
 User
  ↓
 UI
@@ -661,22 +701,19 @@ Logging
 Response
  ↓
 UI State
-```
 
 And every step can fail.
 
 That's where engineering gets interesting.
 
----
-
-# 🧩 My Engineering Areas
+🧩 My Engineering Areas
 
 <table>
 <tr>
 
 <td align="center" width="25%">
 
-### 🎨 UI/UX
+🎨 UI/UX
 
 Design
 Responsive UI
@@ -687,7 +724,7 @@ Accessibility
 
 <td align="center" width="25%">
 
-### 💻 Frontend
+💻 Frontend
 
 React
 TypeScript
@@ -698,7 +735,7 @@ Tailwind
 
 <td align="center" width="25%">
 
-### ⚙️ Backend
+⚙️ Backend
 
 Node
 FastAPI
@@ -709,7 +746,7 @@ Databases
 
 <td align="center" width="25%">
 
-### 🤖 AI
+🤖 AI
 
 ML
 Deep Learning
@@ -721,11 +758,9 @@ AI Systems
 </tr>
 </table>
 
----
+🛠️ Complete Tech Stack
 
-# 🛠️ Complete Tech Stack
-
-## Languages
+Languages
 
 <p align="center">
 
@@ -733,7 +768,7 @@ AI Systems
 
 </p>
 
-## Frontend
+Frontend
 
 <p align="center">
 
@@ -741,7 +776,7 @@ AI Systems
 
 </p>
 
-## Backend
+Backend
 
 <p align="center">
 
@@ -749,7 +784,7 @@ AI Systems
 
 </p>
 
-## Databases
+Databases
 
 <p align="center">
 
@@ -757,7 +792,7 @@ AI Systems
 
 </p>
 
-## Mobile
+Mobile
 
 <p align="center">
 
@@ -765,7 +800,7 @@ AI Systems
 
 </p>
 
-## Tools
+Tools
 
 <p align="center">
 
@@ -773,26 +808,53 @@ AI Systems
 
 </p>
 
----
+🧰 Development Toolkit
 
-# 🧰 Development Toolkit
+Category
 
-| Category         | Tools             |
-| ---------------- | ----------------- |
-| Editor           | VS Code           |
-| Version Control  | Git               |
-| Code Hosting     | GitHub            |
-| API Testing      | Postman           |
-| Design           | Figma             |
-| Containers       | Docker            |
-| OS / Environment | Linux             |
-| Frontend         | React / Next.js   |
-| Backend          | Node.js / FastAPI |
-| Mobile           | Flutter           |
+Tools
 
----
+Editor
 
-# 📊 GitHub Statistics
+VS Code
+
+Version Control
+
+Git
+
+Code Hosting
+
+GitHub
+
+API Testing
+
+Postman
+
+Design
+
+Figma
+
+Containers
+
+Docker
+
+OS / Environment
+
+Linux
+
+Frontend
+
+React / Next.js
+
+Backend
+
+Node.js / FastAPI
+
+Mobile
+
+Flutter
+
+📊 GitHub Statistics
 
 <div align="center">
 
@@ -808,9 +870,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreehaasan&l
 
 </div>
 
----
-
-# 🔥 GitHub Streak
+🔥 GitHub Streak
 
 <div align="center">
 
@@ -820,9 +880,7 @@ src="https://streak-stats.demolab.com?user=sreehaasan&theme=tokyonight&hide_bord
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
 
@@ -832,9 +890,7 @@ src="https://github-profile-trophy.vercel.app/?username=sreehaasan&theme=tokyoni
 
 </div>
 
----
-
-# 📈 Contribution Graph
+📈 Contribution Graph
 
 <div align="center">
 
@@ -844,9 +900,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=sreehaasan&t
 
 </div>
 
----
-
-# 📊 GitHub Profile Summary
+📊 GitHub Profile Summary
 
 <div align="center">
 
@@ -868,9 +922,7 @@ width="45%"
 
 </div>
 
----
-
-# 🐍 Contribution Snake
+🐍 Contribution Snake
 
 <div align="center">
 
@@ -881,9 +933,7 @@ alt="GitHub Contribution Snake"
 
 </div>
 
----
-
-# 📅 Coding Activity
+📅 Coding Activity
 
 <div align="center">
 
@@ -893,9 +943,7 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 
 </div>
 
----
-
-# 📦 Featured Repositories
+📦 Featured Repositories
 
 <div align="center">
 
@@ -913,11 +961,8 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sreehaasan&repo=YO
 
 </div>
 
----
+🧠 My Problem-Solving Process
 
-# 🧠 My Problem-Solving Process
-
-```text
               PROBLEM
                  │
                  ▼
@@ -946,16 +991,12 @@ src="https://github-readme-stats.vercel.app/api/pin/?username=sreehaasan&repo=YO
                  │
                  ▼
                SHIP
-```
 
----
-
-# 🧪 Experimentation
+🧪 Experimentation
 
 I like experimenting with technologies instead of
 only following predefined tutorials.
 
-```text
 New Technology
       ↓
 Small Experiment
@@ -971,15 +1012,11 @@ Debug
 Understand
       ↓
 Use in Real Project
-```
 
----
-
-# 📱 Responsive Development
+📱 Responsive Development
 
 I care about applications working properly across:
 
-```text
 Mobile
   ↓
 Tablet
@@ -989,17 +1026,13 @@ Laptop
 Desktop
   ↓
 Large Screens
-```
 
 Not just:
 
-> "It works on my screen."
+"It works on my screen."
 
----
+🎨 UI Philosophy
 
-# 🎨 UI Philosophy
-
-```text
 Visual Hierarchy
       +
 Spacing
@@ -1015,17 +1048,13 @@ Accessibility
 Performance
       =
 Better Experience
-```
 
----
-
-# 🏗️ Product Engineering
+🏗️ Product Engineering
 
 I enjoy going beyond individual features.
 
 A product can involve:
 
-```text
                     PRODUCT
                        │
        ┌───────────────┼────────────────┐
@@ -1038,13 +1067,9 @@ A product can involve:
     Flows           APIs             Payments
     Mobile          Database         Delivery
     Web             Security         Users
-```
 
----
+🌎 From Idea to Product
 
-# 🌎 From Idea to Product
-
-```text
                  💡 IDEA
                    │
                    ▼
@@ -1073,67 +1098,91 @@ A product can involve:
                    │
                    ▼
                📈 IMPROVE
-```
 
----
+📚 Learning Roadmap
 
-# 📚 Learning Roadmap
+Phase 1 — Strong Foundations
 
-## Phase 1 — Strong Foundations
+Programming
 
-* [x] Programming
-* [x] Web Development
-* [x] Frontend Development
-* [x] Backend Development
-* [x] Databases
-* [x] APIs
-* [ ] Advanced Data Structures
-* [ ] Advanced Algorithms
+Web Development
 
-## Phase 2 — Engineering
+Frontend Development
 
-* [ ] System Design
-* [ ] Distributed Systems
-* [ ] Advanced Backend Architecture
-* [ ] Application Security
-* [ ] Testing
-* [ ] Observability
-* [ ] Cloud Architecture
+Backend Development
 
-## Phase 3 — AI / ML
+Databases
 
-* [ ] Strong Mathematics
-* [ ] Statistics
-* [ ] Machine Learning
-* [ ] Deep Learning
-* [ ] Computer Vision
-* [ ] NLP
-* [ ] Generative AI
-* [ ] AI Agents
-* [ ] AI Systems
+APIs
 
-## Phase 4 — Research
+Advanced Data Structures
 
-* [ ] Read papers consistently
-* [ ] Reproduce research
-* [ ] Run experiments
-* [ ] Identify research gaps
-* [ ] Write technical papers
-* [ ] Publish research
+Advanced Algorithms
 
-## Phase 5 — Products
+Phase 2 — Engineering
 
-* [ ] Build production AI applications
-* [ ] Launch products
-* [ ] Get real users
-* [ ] Iterate based on feedback
-* [ ] Build scalable systems
+System Design
 
----
+Distributed Systems
 
-# 🔬 Research Workflow
+Advanced Backend Architecture
 
-```text
+Application Security
+
+Testing
+
+Observability
+
+Cloud Architecture
+
+Phase 3 — AI / ML
+
+Strong Mathematics
+
+Statistics
+
+Machine Learning
+
+Deep Learning
+
+Computer Vision
+
+NLP
+
+Generative AI
+
+AI Agents
+
+AI Systems
+
+Phase 4 — Research
+
+Read papers consistently
+
+Reproduce research
+
+Run experiments
+
+Identify research gaps
+
+Write technical papers
+
+Publish research
+
+Phase 5 — Products
+
+Build production AI applications
+
+Launch products
+
+Get real users
+
+Iterate based on feedback
+
+Build scalable systems
+
+🔬 Research Workflow
+
 Question
    ↓
 Literature Review
@@ -1153,37 +1202,33 @@ Evaluation
 Analysis
    ↓
 Paper
-```
 
----
+🎯 Long-Term Goals
 
-# 🎯 Long-Term Goals
-
-### 🤖 AI
+🤖 AI
 
 Build a deep understanding of AI/ML
 and eventually contribute to research.
 
-### 💻 Engineering
+💻 Engineering
 
 Become significantly stronger at
 production-grade software engineering.
 
-### 🏗️ Systems
+🏗️ Systems
 
 Understand how large systems are designed,
 built, secured and scaled.
 
-### 🚀 Products
+🚀 Products
 
 Build products that solve real problems
 and are actually used by people.
 
-### 🔬 Research
+🔬 Research
 
 Move from:
 
-```text
 Learning Research
        ↓
 Reading Research
@@ -1193,13 +1238,9 @@ Reproducing Research
 Experimenting
        ↓
 Creating Research
-```
 
----
+🗺️ 2026 Mission
 
-# 🗺️ 2026 Mission
-
-```text
 ┌───────────────────────────────────────────────┐
 │                                               │
 │                  2026                        │
@@ -1219,11 +1260,8 @@ Creating Research
 │   📚 Publish technical work                  │
 │                                               │
 └───────────────────────────────────────────────┘
-```
 
----
-
-# 🧠 What I'm Curious About
+🧠 What I'm Curious About
 
 <details>
 <summary><b>🤖 Artificial Intelligence</b></summary>
@@ -1285,11 +1323,8 @@ to a measurable, reproducible result.
 
 </details>
 
----
+💡 Things I Like Building
 
-# 💡 Things I Like Building
-
-```text
 🤖 AI Applications
 
 💻 Full-Stack Platforms
@@ -1313,17 +1348,13 @@ to a measurable, reproducible result.
 🧪 Experimental Projects
 
 🔬 Research Prototypes
-```
 
----
-
-# 🔐 Production Mindset
+🔐 Production Mindset
 
 A feature isn't finished when the happy path works.
 
 I want to think about:
 
-```text
 What if the request fails?
 What if the user retries?
 What if the payment succeeds but the callback fails?
@@ -1333,25 +1364,17 @@ What if the user loses connection?
 What if the API returns unexpected data?
 What if the system scales?
 What if someone abuses the endpoint?
-```
 
 That's the difference between:
 
-```text
 Demo
-```
 
 and
 
-```text
 Production System
-```
 
----
+🧑‍💻 Developer Journey
 
-# 🧑‍💻 Developer Journey
-
-```text
                     LEARNING
                        │
                        ▼
@@ -1377,16 +1400,12 @@ Production System
                        │
                        ▼
                ADVANCED ENGINEERING
-```
 
----
-
-# 🌱 Continuous Learning
+🌱 Continuous Learning
 
 I believe technology changes too quickly
 to ever consider the learning process finished.
 
-```text
 Know Something
       ↓
 Question It
@@ -1398,42 +1417,36 @@ Build With It
 Find Its Limitations
       ↓
 Learn Something Better
-```
 
----
+📖 My Rules for Building
 
-# 📖 My Rules for Building
-
-### 01 — Understand before copying
+01 — Understand before copying
 
 If I copy a solution without understanding it,
 I haven't really solved the problem.
 
-### 02 — Build beyond tutorials
+02 — Build beyond tutorials
 
 Tutorials teach patterns.
 
 Projects teach engineering.
 
-### 03 — Debug instead of avoiding
+03 — Debug instead of avoiding
 
 A broken system is often the best teacher.
 
-### 04 — Think about the entire system
+04 — Think about the entire system
 
 Frontend is only one part.
 
-### 05 — Keep improving
+05 — Keep improving
 
 Working is not the final state.
 
----
-
-# ⚡ Developer Mindset
+⚡ Developer Mindset
 
 <div align="center">
 
-```text
 CURIOUS
    ↓
 EXPERIMENTAL
@@ -1443,51 +1456,114 @@ TECHNICAL
 PRODUCT-FOCUSED
    ↓
 RESEARCH-ORIENTED
-```
 
 </div>
 
----
+📈 Growth Dashboard
 
-# 📈 Growth Dashboard
+Area
 
-| Area              | Direction    |
-| ----------------- | ------------ |
-| 🤖 AI / ML        | Deepening    |
-| 💻 Full Stack     | Advanced     |
-| 🎨 UI/UX          | Strong Focus |
-| ⚙️ Backend        | Deepening    |
-| 🗄️ Databases     | Deepening    |
-| 📱 Mobile         | Exploring    |
-| 🏗️ System Design | Growing      |
-| 🔬 Research       | Starting     |
-| ☁️ DevOps         | Growing      |
-| 🚀 Product        | Active       |
+Direction
 
----
+🤖 AI / ML
 
-# 🏅 Areas of Experience
+Deepening
+
+💻 Full Stack
+
+Advanced
+
+🎨 UI/UX
+
+Strong Focus
+
+⚙️ Backend
+
+Deepening
+
+🗄️ Databases
+
+Deepening
+
+📱 Mobile
+
+Exploring
+
+🏗️ System Design
+
+Growing
+
+🔬 Research
+
+Starting
+
+☁️ DevOps
+
+Growing
+
+🚀 Product
+
+Active
+
+🏅 Areas of Experience
 
 <div align="center">
 
-| Frontend   | Backend   | Product  | AI          |
-| ---------- | --------- | -------- | ----------- |
-| React      | Node.js   | Commerce | ML          |
-| TypeScript | FastAPI   | Payments | AI          |
-| Next.js    | Express   | Delivery | GenAI       |
-| Tailwind   | REST APIs | Wallet   | Research    |
-| UI/UX      | Databases | Admin    | Experiments |
+Frontend
+
+Backend
+
+Product
+
+AI
+
+React
+
+Node.js
+
+Commerce
+
+ML
+
+TypeScript
+
+FastAPI
+
+Payments
+
+AI
+
+Next.js
+
+Express
+
+Delivery
+
+GenAI
+
+Tailwind
+
+REST APIs
+
+Wallet
+
+Research
+
+UI/UX
+
+Databases
+
+Admin
+
+Experiments
 
 </div>
 
----
-
-# 🎨 Design + Engineering
+🎨 Design + Engineering
 
 One of the things I enjoy is the intersection
 between visual design and engineering.
 
-```text
                DESIGN
                   │
         ┌─────────┴─────────┐
@@ -1508,15 +1584,11 @@ between visual design and engineering.
                   │
                   ▼
                PRODUCT
-```
 
----
-
-# 🧪 Build Log
+🧪 Build Log
 
 Things I continuously learn from:
 
-```text
 🐛 Bugs
 🔧 Fixes
 🧠 Concepts
@@ -1527,32 +1599,27 @@ Things I continuously learn from:
 📊 Data
 🤖 AI
 🚀 Products
-```
 
 Every difficult bug becomes another piece
 of engineering knowledge.
 
----
-
-# 🌟 Personal Motto
+🌟 Personal Motto
 
 <div align="center">
 
-# BUILD.
+BUILD.
 
-# BREAK.
+BREAK.
 
-# UNDERSTAND.
+UNDERSTAND.
 
-# IMPROVE.
+IMPROVE.
 
-# SHIP.
+SHIP.
 
 </div>
 
----
-
-# 📫 Find Me Online
+📫 Find Me Online
 
 <div align="center">
 
@@ -1574,23 +1641,25 @@ of engineering knowledge.
 
 </div>
 
----
-
-# 🤝 Open To
+🤝 Open To
 
 I'm interested in:
 
-* 🤖 AI/ML collaborations
-* 💻 Full-stack projects
-* 🔬 Research collaborations
-* 🚀 Product development
-* 🌎 Open-source projects
-* 🧠 Interesting technical problems
-* 🧪 Experimental projects
+🤖 AI/ML collaborations
 
----
+💻 Full-stack projects
 
-# 👀 Profile Visitors
+🔬 Research collaborations
+
+🚀 Product development
+
+🌎 Open-source projects
+
+🧠 Interesting technical problems
+
+🧪 Experimental projects
+
+👀 Profile Visitors
 
 <div align="center">
 
@@ -1600,9 +1669,7 @@ src="https://komarev.com/ghpvc/?username=sreehaasan&style=for-the-badge&label=PR
 
 </div>
 
----
-
-# 🐍 Keep Coding
+🐍 Keep Coding
 
 <div align="center">
 
@@ -1613,23 +1680,21 @@ alt="Contribution Snake"
 
 </div>
 
----
-
-# 🚀 Final Section
+🚀 Final Section
 
 <div align="center">
 
-### AI/ML × SOFTWARE ENGINEERING × PRODUCT BUILDING
+AI/ML × SOFTWARE ENGINEERING × PRODUCT BUILDING
 
 <br/>
 
-### I'm not trying to know everything.
+I'm not trying to know everything.
 
-### I'm trying to understand, build, experiment and improve.
+I'm trying to understand, build, experiment and improve.
 
 <br/>
 
-**— Sree Haasan**
+— Sree Haasan
 
 <br/>
 
@@ -1638,19 +1703,15 @@ src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer
 />
 
 </div>
-```
 
-### And don't forget the Snake workflow
+And don't forget the Snake workflow
 
 Create:
 
-```text
 .github/
 └── workflows/
     └── snake.yml
-```
 
-```yaml
 name: Generate Contribution Snake
 
 on:
@@ -1678,12 +1739,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BUILD_DIR: dist
-```
-
-### One thing I intentionally did **not** do
-
-I didn't invent achievements, GitHub contribution numbers, follower counts, certifications, company positions, or projects that I don't have reliable information for. Your README can be **huge and impressive without becoming a list of fake claims**.
-
-The personal information I could reliably incorporate includes your **Full-Stack Developer/UI/UX identity, React + TypeScript focus, modern responsive development, animation/design work, AI/ML direction, StudyShare, Dhruthaa and its commerce/payment/backend systems, mobile development, research ambitions, and your portfolio/contact presence**.
-
-Also, before you paste this, there are **two things I'd fix next**: replace the two `YOUR_PROJECT_REPO_*` values with your actual repositories, and add your actual YouTube/Instagram links if you want those badges. Those are the only major placeholders left.
