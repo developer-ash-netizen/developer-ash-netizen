@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**developer-ash-netizen/developer-ash-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sree Haasan
 
-Here are some ideas to get you started:
+### 🚀 AI/ML Student | Full-Stack Developer | Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=AI%2FML+Student;Full-Stack+Developer;Building+Real-World+Products;Learning+by+Building;Exploring+AI+%2B+Software;Turning+Ideas+Into+Products" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=developer-ash-netizen&style=for-the-badge&label=PROFILE+VIEWS" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="YOUR_INSTAGRAM_URL">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+I'm **Sree Haasan**, an AI/ML student and full-stack developer
+interested in building real-world software and intelligent systems.
+
+I enjoy working across the entire development stack:
+
+```text
+Frontend
+   ↓
+Backend
+   ↓
+APIs
+   ↓
+Databases
+   ↓
+Infrastructure
+   ↓
+AI / ML
+   ↓
+Real Products
